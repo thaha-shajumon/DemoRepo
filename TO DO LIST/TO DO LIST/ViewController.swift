@@ -113,10 +113,7 @@ class ViewController: UIViewController,UITableViewDataSource,UITableViewDelegate
         }
         picker.dismiss(animated: true, completion: nil)
     }
-    func color()
-    {
-        print("color")
-    }
+    
     
 
 
